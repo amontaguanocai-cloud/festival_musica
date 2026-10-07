@@ -1,8 +1,4 @@
 hore de cierre: 20:00
 Festival Izar
-<<<<<<< HEAD
-Apertura de puertas 19:00
-=======
 Apertura de puertas 17:30
->>>>>>> c853375910612f7afb9139cc957b43dcf59fde01
 Escenario principal
