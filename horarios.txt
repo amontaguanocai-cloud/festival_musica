@@ -1,3 +1,1 @@
-Festival Izar
-Apertura de puertas: 18:00
-Apertura de puertas: 20:00
+hore de cierre: 20:00
